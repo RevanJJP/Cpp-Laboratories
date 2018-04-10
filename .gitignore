@@ -1,3 +1,9 @@
 
 Ex2/.DS_Store
 .DS_Store
+*.json
+*.cmake
+*.bin
+Ex3/CMakeCache.txt
+*.out
+Ex3/CMakeFiles/3.11.0/CompilerIdC/CMakeCCompilerId.c
